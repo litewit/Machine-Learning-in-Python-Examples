@@ -6,7 +6,12 @@ This classification has been done on the dataset of forest fires taken from [UIC
 
 In `classification.py` we have used simple classification
 
+
+
 In `classification-tpot.py` we have user python [tpot](https://epistasislab.github.io/tpot/) library.
+
+## Automated Machine Learning tool 
+TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 TPOT is built on top of several existing Python libraries, including:
 - NumPy
